@@ -1,2 +1,6 @@
-# Python-plot-code
-by Pandas, Matplotlib, Seaborn etc on popular datasets
+# Python-plot-datapre
+
+Plot by Pandas, Matplotlib, Seaborn and Altair on popular datasets
+Data preparing.
+
+Super useful code.
