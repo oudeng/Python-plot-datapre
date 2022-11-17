@@ -13,5 +13,4 @@ The core files in this repo:
 - Data_prepare.ipynb is for data filltering automatically.
 - Matplotlib_202209.ipynb is for ploting.
 
-Thanks
 Ou Deng@NIS, Waseda.
